@@ -15,3 +15,48 @@ code {
 .Search {
   text-align:center;
 }
+
+.searchResults{
+  text-align: center;
+  padding-left: 15px;
+}
+
+.locationButton{
+  width: 270px;
+  background-color:#71b66d;
+}
+.NYTButton{
+  width: 270px;
+  height: 300px;
+  text-align: center;
+  vertical-align: top;
+  background-color:#71b66d;
+}
+
+.NYT{
+  text-align:center;
+  vertical-align:top;
+}
+
+.spacefill{ 
+  height:20px;
+  width:100%;
+  clear:both;
+}
+
+.smallspacefill{ 
+  height:2px;
+  width:100%;
+  clear:both;
+}
+
+/* .WeatherResult{ */
+  /* text-align: center; */
+/* } */
+
+.TomorrowHourlyWeather{
+  /* display: flex; */
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
